@@ -8,7 +8,7 @@ Stock NPM install.
 ##### Usage
 ```javascript
 // Assume script is executed node . --boolean -variable has a value that can include spaces --anotherbool --finalbool -variable2 single-value --getting-tricky
-import { SimpleCLI } from '@leemcdonald-au/simplecli'
+import SimpleCLI from '@leemcdonald-au/simplecli'
 
 const cli = new SimpleCLI
 console.log(cli)

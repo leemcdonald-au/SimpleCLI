@@ -1,6 +1,6 @@
 {
   "name": "@leemcdonald-au/simplecli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI to JSON converter.",
   "main": "src/SimpleCLI.js",
   "scripts": {
